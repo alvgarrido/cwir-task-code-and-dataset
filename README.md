@@ -1,4 +1,4 @@
-# cwir-task-dataset-and-analyses
+# cwir-task-code-and-dataset
 
 This repository contains code and data to reproduce the results in the paper:
 
@@ -8,7 +8,7 @@ It also includes the dataset from the **Choose-and-Wait Interval Reproduction (C
 
 ## Repository structure
 
-- `analyses/` — Code to reproduce all analyses and figures reported in the paper.
+- `analyses/` — Code to reproduce all analyses and figures reported in the paper (in R and Python).
 - `application/` — Experimental task code used to run the CWIR study.
 - `dataset/` — Data used for the analyses (see folder for file descriptions and formats).
 
